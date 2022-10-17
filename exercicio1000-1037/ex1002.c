@@ -17,6 +17,5 @@ int main(){
 
     printf("A=%0.4lf\n", raio);
 
-
     return 0;
 }
