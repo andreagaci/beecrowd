@@ -14,6 +14,5 @@ int main(){
     //Print the result
     printf("X = %d\n", x);
 
-    
     return 0;
 }
