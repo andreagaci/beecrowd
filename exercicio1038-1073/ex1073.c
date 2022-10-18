@@ -15,12 +15,10 @@ int main(){
     while (i <= num){
         if (i % 2 == 0)
         {
-            printf("%d^%d = %d", i,i, i*i);
+            printf("%d^2 = %d\n", i, i*i);
         }
         i = i + 1;
     }
-    
-    printf("%d valores positivos\n", q);
 
     return 0;
 }
